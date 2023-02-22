@@ -1,0 +1,42 @@
+What is the distribution of ages among employees in each department?
+
+
+What is the average monthly income of employees based on their job role and job level?
+
+
+What is the average work life balance of employees in each department?
+
+
+What is the average environment satisfaction of employees based on their job role?
+
+
+How does the years at company vary among employees in each job role and job level?
+
+
+What is the average job satisfaction of employees based on their marital status?
+
+How does the relationship satisfaction of employees vary based on their job role and job level?
+
+
+What is the distribution of employee count in each department?
+
+
+How does the standard hours vary based on job role and job level?
+
+
+What is the average job involvement of employees based on their gender?
+
+
+How does the average hourly rate of employees vary based on their job role and job level?
+
+What is the average distance from home of employees based on their job role and job level?
+
+How does the average stock option level of employees vary based on their job role and job level?
+
+What is the average training times last year of employees based on their job role and job level?
+
+
+How does the average total working years of employees vary based on their job role and job level?
+
+
+What is the average years since last promotion of employees based on their job role and job level?
